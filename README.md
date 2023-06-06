@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dassick89
 - I'm interested in learning more coding through project building.
-- Currently I have been studying HTML 5 and CSS for front end development. Through FreeCodeCamp and The Oding Project.
+- Currently I have been studying HTML 5 and CSS for front end development. Through FreeCodeCamp and The Odin Project.
 - I am looking forward to starting JS in hope to land a job as a dev in the future.
 
 <!---
